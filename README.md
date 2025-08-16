@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Graduate&size=48&pause=1000&color=00B8F7&multiline=true&width=700&lines=Hello%2C+I+am+ESTITO%F0%9F%91%8B%F0%9F%8F%BB!" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Graduate&size=30&pause=1000&color=0079F7&center=true&vCenter=true&width=435&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BB!;I+am+ESTITO+XP)](https://git.io/typing-svg)
 
 ---
 
@@ -14,6 +10,14 @@ I'm **ESTITO XP**. I am a:
 - Researcher
 - Writer  
 ...and so much more!
+
+---
+
+## 📧 Contact Me
+
+- hehehola1177@hotmail.com
+- ESTITO_XP_2468@proton.me
+- g133244282@gmail.com
 
 ---
 
@@ -38,5 +42,5 @@ I would be very happy to work with you! ☺️
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESTITO-XP&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ESTITO-XP&style=flat-square&color=00B8F7" alt="GitHub profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ESTITO-XP&style=flat-square&color=0079F7" alt="GitHub profile views" />
 </p>
