@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Graduate&pause=1000&color=00B8F7&multiline=true&width=435&lines=Hello%2C+I+am+ESTITO%F0%9F%91%8B%F0%9F%8F%BB!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Graduate&size=48&pause=1000&color=00B8F7&multiline=true&width=700&lines=Hello%2C+I+am+ESTITO%F0%9F%91%8B%F0%9F%8F%BB!" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -9,7 +13,7 @@ I'm **ESTITO XP**. I am a:
 - Gamer
 - Researcher
 - Writer  
-and so much more!
+...and so much more!
 
 ---
 
@@ -22,3 +26,17 @@ You can join or check it out here:
 ---
 
 I would be very happy to work with you! ☺️
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ESTITO-XP&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="ESTITO-XP's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESTITO-XP&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ESTITO-XP&style=flat-square&color=00B8F7" alt="GitHub profile views" />
+</p>
