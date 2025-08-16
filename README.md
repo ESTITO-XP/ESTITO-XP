@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Graduate&size=30&pause=1000&color=0079F7&center=true&vCenter=true&width=435&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BB!;I+am+ESTITO+XP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Graduate&size=30&pause=1000&color=0079F7&center=true&vCenter=true&width=435&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BB!;I+am+ESTITO+XP.)](https://git.io/typing-svg)
 
 ---
 
