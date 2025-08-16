@@ -23,7 +23,7 @@ I'm **ESTITO XP**. I am a:
 
 ## Projects
 
-I'm currently working on **Serendipity AI** –  
+I'm currently working on **Serendipity AI** –  ![Image](https://github.com/user-attachments/assets/1b927d99-a50a-4ac3-b1ac-7f621ab082db)
 You can join or check it out here:  
 [github.com/ESTITO-XP/Serendipity-AI](https://github.com/ESTITO-XP/Serendipity-AI)
 
