@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Graduate&size=30&pause=1000&color=0079F7&center=true&vCenter=true&width=435&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BB!;I+am+ESTITO+XP.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Graduate&size=30&pause=1000&color=0079F7&center=true&vCenter=true&width=435&lines=Hey+There%F0%9F%91%8B%F0%9F%8F%BB!;I+am+ESTITO.)](https://git.io/typing-svg)
 
 ---
 
@@ -15,9 +15,9 @@ I'm **ESTITO XP**. I am a:
 
 ## 📧 Contact Me
 
-- hehehola1177@hotmail.com
-- ESTITO_XP_2468@proton.me
-- g133244282@gmail.com
+-[Email](mailto:hehehola1177@hotmail.com)
+
+-[Discord](https://discord.com/users/1191348720227332248)
 
 ---
 
