@@ -15,9 +15,9 @@ I'm **ESTITO XP**. I am a:
 
 ## 📧 Contact Me
 
--[Email](mailto:hehehola1177@hotmail.com)
+•[Email](mailto:hehehola1177@hotmail.com)
 
--[Discord](https://discord.com/users/1191348720227332248)
+•[Discord](https://discord.com/users/1191348720227332248)
 
 ---
 
