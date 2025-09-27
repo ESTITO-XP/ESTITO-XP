@@ -1,34 +1,44 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Graduate&size=30&pause=1000&color=0079F7&center=true&vCenter=true&width=435&lines=Hey+There%F0%9F%91%8B%F0%9F%8F%BB!;I+am+ESTITO.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Graduate&size=30&pause=1000&color=0079F7&center=true&vCenter=true&width=435&lines=Hey+There%F0%9F%91%8B%F0%9F%8F%BB!;I'm+ESTITO.)](https://github.com/ESTITO-XP)
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm **ESTITO XP**. I am a:
-- Programmer
-- Gamer
-- Researcher
-- Writer  
-...and so much more!
+Hi! I'm **ESTITO XP** — a passionate:
+- 💻 Programmer
+- 🎮 Gamer
+- 🔬 Researcher
+- ✍️ Writer  
+...and a lifelong learner, always exploring new horizons!
 
----
-
-## 📧 Contact Me
-
-•[Email](mailto:hehehola1177@hotmail.com)
-
-•[Discord](https://discord.com/users/1191348720227332248)
+I enjoy building innovative projects, collaborating with fellow developers, and sharing my knowledge with the community.
 
 ---
 
-## Projects
+## 🚀 Featured Project
 
-I'm currently working on **Serendipity AI** –  ![Image](https://github.com/user-attachments/assets/1b927d99-a50a-4ac3-b1ac-7f621ab082db)
-You can join or check it out [here](https://github.com/ESTITO-XP/Serendipity-AI)
+### [Serendipity AI](https://github.com/ESTITO-XP/Serendipity-AI)
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fa3f0fcf-342a-43f1-b409-6306cf2bf75f" />
+
+A creator-first AI workspace focused on memory, modularity, and momentum.  
+Empowering creative workflows, idea generation, and serendipitous discoveries.
 
 ---
 
-I would be very happy to work with you! ☺️
+## 📫 How to Reach Me
+
+- 📧 [Email](mailto:hehehola1177@hotmail.com)
+- 💬 [Discord](https://discord.com/users/1191348720227332248)
+
+Feel free to connect — I'm always open to collaboration, feedback, or just a friendly chat!
+
+---
+
+## 🌟 Let's Work Together!
+
+I'm always interested in working on cool projects, open source, or research collaborations.<br>
+If you have an idea or opportunity, let's make it happen! ☺️
 
 ---
 
